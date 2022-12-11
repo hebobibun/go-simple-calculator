@@ -30,7 +30,7 @@ cd go-simple-calculator
 go run .
 ```
 
-- It's gonna show you this :\
+- It's gonna show you this :
 
   ![run](./ss/run.png)\
 - Please type an option [1 / 2 / 3 / 4] to choose an operator
