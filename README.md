@@ -9,7 +9,11 @@ Hi! I built a simple calculator app with Go Language for my learning journey whe
 
 You can also see the history of your previous calculations.
 
-# How to setup
+# Requirement
+
+- Go v1.19
+
+# How to run
 
 - Clone this project with command
 
